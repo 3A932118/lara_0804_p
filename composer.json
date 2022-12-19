@@ -6,5 +6,7 @@
             "name": "ArTim"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.64"
+    }
 }
